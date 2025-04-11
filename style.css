@@ -29,7 +29,7 @@ body {
 .logos:after {
   position: absolute;
   top: 0;
-  width: 50px;
+  width: 10px;
   height: 100%;
   content: "";
   z-index: 2;
